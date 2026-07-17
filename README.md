@@ -1,232 +1,108 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%" />
-
-# Hi 👋, I'm Ahmed Elbastawesy
-
-### 🚀 Full-Stack Software Engineer
-
-Passionate about building modern, scalable, and high-performance web applications using React, Next.js, Node.js, Express.js, and TypeScript.
+# Hi 👋 I'm Ahmed Elbastawesy
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmedElbastawesy&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;React.js+%7C+Next.js+Developer;Node.js+%7C+Express.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
-</div>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
----
-
-# 👨‍💻 About Me
-
-- 💼 Full-Stack Software Engineer
-- 🌍 Based in Egypt
-- 💻 Passionate about Web Development
-- 📚 Currently improving my Backend & System Design skills
-- 🚀 Love building scalable web applications
-- 🎯 Goal: Become a Senior Full-Stack Engineer
-
----
-
-# 🌐 Portfolio
-
-### 🔗 Portfolio Website
-
-https://elbastawesy-portfolio.vercel.app/
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ahmed-elbastawesy-372ba723b">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://elbastawesy-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-
+<p align="center">
+<a href="https://elbastawesy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"></a>
+<a href="https://www.linkedin.com/in/ahmed-elbastawesy-372ba723b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 About Me
 
-## Front-End
+I'm a Full-Stack Software Engineer specializing in React.js, Next.js, Node.js, Express.js, JavaScript and TypeScript. I enjoy building secure, scalable and maintainable applications with clean architecture and modern development practices.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+- 🌍 Egypt
+- 💻 Full-Stack Web Development
+- 📚 Learning System Design & Cloud
+- ⚡ Clean Code • Performance • Scalability
 
 ---
 
-## Back-End
+## 💻 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,sqlite,redux,git,github,docker,figma&perline=10"/>
+</p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Joi-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Formik-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
+</p>
 
-## Styling
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
-![Sass](https://img.shields.io/badge/Sass-pink?style=flat&logo=sass)
-![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?style=flat)
-
----
-
-## State Management
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-brown?style=flat)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat&logo=react)
-
----
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite)
-
----
-
-## ORM & Database Tools
-
-![Mongoose](https://img.shields.io/badge/Mongoose-darkred?style=flat)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=flat&logo=prisma)
-![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat)
-
----
-
-## Authentication
-
-- JWT
-- Authentication & Authorization
-- Role-Based Access Control
-
----
-
-## Validation
-
-- React Hook Form
-- Formik
-- Zod
-- Joi
-
----
-
-## APIs
-
-- RESTful APIs
-- GraphQL
-- API Integration
-- Data Fetching
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![SourceTree](https://img.shields.io/badge/SourceTree-blue?style=flat&logo=sourcetree)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
-
----
-
-## Programming Concepts
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Design Patterns
-- Agile Methodologies
-
----
-
-# 💡 About Me
+## 👨‍💻 About.ts
 
 ```ts
-const Ahmed = {
+const ahmed = {
   role: "Full-Stack Software Engineer",
+  frontend:["React","Next.js","TypeScript","Tailwind CSS"],
+  backend:["Node.js","Express.js"],
+  databases:["MongoDB","MySQL","PostgreSQL","SQLite"],
+  tools:["Git","GitHub","Docker","Figma"],
+  currentlyLearning:["System Design","Cloud","Performance"],
+  motto:"Build clean, scalable software."
+}
+```
 
-  code: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express.js"
-  ],
+## 📊 GitHub Stats
 
-  databases: [
-    "MongoDB",
-    "MySQL",
-    "PostgreSQL",
-    "SQLite"
-  ],
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedElbastawesy&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElbastawesy&layout=compact&theme=tokyonight"/>
+</p>
 
-  architecture: [
-    "REST APIs",
-    "Authentication",
-    "Authorization",
-    "RBAC",
-    "Clean Architecture"
-  ],
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElbastawesy&theme=tokyonight"/>
+</p>
 
-  currentlyLearning: [
-    "System Design",
-    "Docker",
-    "Performance Optimization"
-  ],
+## 🏆 GitHub Trophies
 
-  challenge: "Building scalable, secure and maintainable applications."
-};
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedElbastawesy&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElbastawesy&theme=tokyo-night"/>
+</p>
+
+## 🎯 Current Focus
+
+- Next.js 15
+- Advanced Node.js
+- System Design
+- Docker
+- Clean Architecture
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action from Platane/snk, then use:
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/AhmedElbastawesy/AhmedElbastawesy/output/github-contribution-grid-snake-dark.svg">
+</p>
 ```
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedElbastawesy&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElbastawesy&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElbastawesy&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Currently Focusing On
-
-- Advanced Node.js
-- Next.js 15
-- System Design
-- Scalable Backend Architecture
-- Performance Optimization
-- Docker & Cloud Deployment
-
----
-
-# ⚡ Fun Fact
-
-> I enjoy turning complex problems into clean, scalable, and maintainable software solutions.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">⭐ Thanks for visiting my profile!</p>
