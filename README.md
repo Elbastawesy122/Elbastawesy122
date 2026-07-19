@@ -62,28 +62,14 @@ const ahmed = {
 }
 ```
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedElbastawesy&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElbastawesy&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElbastawesy&theme=tokyonight"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedElbastawesy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElbastawesy&theme=tokyo-night"/>
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Clinic System** | Appointment booking and clinic management system with secure authentication, doctor scheduling, patient management, and dashboard analytics. | Next.js • Node.js • Express.js • MongoDB |
+| 🏢 **ERP System** | A full-stack enterprise resource planning system with authentication, role-based access control, dashboards, employee management, and scalable architecture. | Next.js • postgreSQL • TypeScript |
+| 💼 **Portfolio Website** | Personal portfolio showcasing projects, skills, animations, responsive design, dark mode, and modern UI/UX. | Next.js • Tailwind CSS • Framer Motion |
+| 📚 **EduPress** | A modern educational platform featuring responsive UI, course management, authentication, and API integration for an enhanced learning experience. | React.js • Node.js • Express.js • MongoDB |
 
 ## 🎯 Current Focus
 
