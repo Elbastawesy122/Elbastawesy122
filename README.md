@@ -66,10 +66,10 @@ const ahmed = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏥 **Clinic System** | Appointment booking and clinic management system with secure authentication, doctor scheduling, patient management, and dashboard analytics. | Next.js • Node.js • Express.js • MongoDB |
+| 🏥 **Clinic System** | Appointment booking and clinic management system with secure authentication, doctor scheduling, patient management, and dashboard analytics. | Next.js • Node.js • Express.js • MongoDB • TypeScript |
 | 🏢 **ERP System** | A full-stack enterprise resource planning system with authentication, role-based access control, dashboards, employee management, and scalable architecture. | Next.js • postgreSQL • TypeScript |
-| 💼 **Portfolio Website** | Personal portfolio showcasing projects, skills, animations, responsive design, dark mode, and modern UI/UX. | Next.js • Tailwind CSS • Framer Motion |
-| 📚 **EduPress** | A modern educational platform featuring responsive UI, course management, authentication, and API integration for an enhanced learning experience. | React.js • Node.js • Express.js • MongoDB |
+| 💼 **Portfolio Website** | Personal portfolio showcasing projects, skills, animations, responsive design, dark mode, and modern UI/UX. | Next.js • Tailwind CSS • Framer Motion • TypeScript |
+| 📚 **EduPress** | A modern educational platform featuring responsive UI, course management, authentication, and API integration for an enhanced learning experience. | React.js • TypeScript |
 
 ## 🎯 Current Focus
 
