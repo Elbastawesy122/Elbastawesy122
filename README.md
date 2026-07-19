@@ -74,20 +74,11 @@ const ahmed = {
 ## 🎯 Current Focus
 
 - Next.js 15
+- Nest.js
 - Advanced Node.js
 - System Design
 - Docker
 - Clean Architecture
-
-## 🐍 Contribution Snake
-
-> Enable the GitHub Action from Platane/snk, then use:
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/AhmedElbastawesy/AhmedElbastawesy/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
 
 ---
 
